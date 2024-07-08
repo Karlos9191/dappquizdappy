@@ -1,19 +1,49 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of economic theories with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who is the father of capitalism?",
+      "answers": ["Smith", "Marx", "Keynes"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What does GDP stand for?",
+      "answers": ["Product", "Demand", "Price"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who wrote 'Das Kapital'?",
+      "answers": ["Marx", "Smith", "Ricardo"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is inflation?",
+      "answers": ["Prices", "Income", "Demand"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Keynesianism?",
+      "answers": ["Demand", "Supply", "Capital"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What does the Laffer curve show?",
+      "answers": ["Taxes", "Supply", "Demand"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who proposed comparative advantage?",
+      "answers": ["Ricardo", "Smith", "Marx"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a monopoly?",
+      "answers": ["Single", "Multiple", "Free"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the invisible hand?",
+      "answers": ["Market", "State", "Demand"],
       "correctAnswerIndex": 0
     }
   ]
